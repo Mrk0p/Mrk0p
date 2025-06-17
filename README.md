@@ -100,15 +100,6 @@ More projects available on my [GitHub repositories](https://github.com/Mrk0p)
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrk0p&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrk0p&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 ## 🎧 Fun Fact
 
 I enjoy **coding with music**, whether it's lofi, trance, or classical. Music fuels my creative thinking and keeps my mind calm while debugging those painful bugs 🧠🎶
